@@ -2122,7 +2122,7 @@ body.dark .some-icon {
   -o-transition: all .2s;
   transition: all .2s; }
   [class^="button"]:hover {
-    background: #f83500; }
+    background: #5468E7; }
   [class^="button"].disabled {
     opacity: .5; }
   [class^="button"] .icon {
@@ -5001,7 +5001,7 @@ body.dark .some-icon {
       height: 14px;
       fill: #FCFCFD; }
     .subscription__btn:hover {
-      background: #f83500; }
+      background: #5468E7; }
 
 .footer {
   border-top: 1px solid rgba(119, 126, 144, 0.3); }
@@ -7279,7 +7279,7 @@ body.dark .pricing {
     height: 16px;
     fill: #FCFCFD; }
   .catalog__result:hover {
-    background: #f83500; }
+    background: #5468E7; }
 
 .catalog__wrap {
   margin-bottom: 80px;
@@ -7841,9 +7841,9 @@ body.dark .pricing {
                 box-shadow: 0 0 0 2px #FF592C inset;
         color: #FCFCFD; }
         .programs__item:hover .programs__button:hover {
-          background: #f83500;
-          -webkit-box-shadow: 0 0 0 2px #f83500 inset;
-                  box-shadow: 0 0 0 2px #f83500 inset;
+          background: #5468E7;
+          -webkit-box-shadow: 0 0 0 2px #5468E7 inset;
+                  box-shadow: 0 0 0 2px #5468E7 inset;
           color: #FCFCFD; }
     body.dark .programs__item {
       background: #23262F; }
